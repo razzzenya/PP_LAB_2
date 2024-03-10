@@ -1,0 +1,1 @@
+Time spent in seconds to multiply 0 by 0 matrices: 0
