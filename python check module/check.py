@@ -1,9 +1,9 @@
 import numpy as np
 
-RESULT_FILENAME = "result.txt"
-RESULT_MATRIX_FILENAME = "result matrix.txt"
-FIRST_MATRIX_FILENAME = "first matrix.txt"
-SECOND_MATRIX_FILENAME = "second matrix.txt"
+RESULT_FILENAME = "../result.txt"
+RESULT_MATRIX_FILENAME = "../result matrix.txt"
+FIRST_MATRIX_FILENAME = "../first matrix.txt"
+SECOND_MATRIX_FILENAME = "../second matrix.txt"
 
 
 def check():
